@@ -1,0 +1,16 @@
+{
+  "name": "sysopbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install 1": "npm i discord.js",
+    "install 2": "npm i fs"
+  },
+  "author": "Vorlod",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security"
+  }
+}

@@ -1,0 +1,52 @@
+{
+    "--------------------------------------------------" : "Identité",
+
+    "nom": "sysopBot",
+    "licenceImage": "[Auteur et licence](lien)",
+    "hebergement": "[hebergement](lien)",
+
+    "prefixconfig": "/",
+    "token": "token",
+
+    "-------------------------------------------------" : "Serveur",
+
+    "guild": "nom",
+    "guildImage": "lien",
+
+    "invitation": "code",
+    "modchannelid": "id",
+    "modchannelbisid": "id",
+    "genchannelid": "id",
+
+    "------------------------------------------------" : "Services",
+
+    "ynInvitation": 1,
+    "ynRaid": 1,
+    "ynPseudo": 1,
+    "ynStatut": 1,  
+    "ynAide": 1,
+    "ynInfo": 1,
+    "ynPing": 1,
+    "ynClear": 1,
+    "ynStop": 1,
+    "ynConfig": 1,
+    "ynLock": 1,
+    "ynVerif": 1,
+
+    "-----------------------" : "Raid",
+
+    "raidon": 2,
+    "raiddelais": -100,
+    "raiddelaisH": "une minute",
+
+    "------------------------" : "Pseudo",
+
+    "pseudointerdit": ["mot", "interdit"],
+
+    "-------------------------" : "Vérification",
+
+    "idWikiAuthBot" : "id",
+    "verifRole": "id",
+    "channelAuth" : "id"
+
+}
